@@ -1,5 +1,4 @@
 # Dot-and-Box-Game
-![image](https://user-images.githubusercontent.com/55630610/143189193-4e57d27c-a37f-4095-ad79-78bd298f8ba3.png)
 A player will be rewarded if a box is created by last move.
 The highest box maker will be the winner.
 
